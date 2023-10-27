@@ -1,6 +1,6 @@
 
 print("*" * 50)
-print("* TESTE DE QI *")
+print("* TESTE DE PERGUNTAS *")
 print("*" * 50)
 
     
